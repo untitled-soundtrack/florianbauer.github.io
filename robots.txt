@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://florianbauer.github.io/sitemap.xml
